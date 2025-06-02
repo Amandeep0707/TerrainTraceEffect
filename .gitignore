@@ -76,6 +76,9 @@ DerivedDataCache/*
 
 # Ignore assets Folder
 Assets/*
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+Content/STF/*
 
 # Ignore Samples Folder
 Samples/*
